@@ -1,1 +1,1 @@
-esse é o projeto do site sobre pokemons da fábrica
+esse é o projeto do site sobre pokemons da fábrica, começou a dar uns bugs e pagina ficou errada no final mas eu não tive tempo para corrigir, mas estou enviando isso pois acho que é melhor mandar isso doque nada
